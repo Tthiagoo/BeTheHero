@@ -16,7 +16,7 @@ npm install
 ## Tecnologias utilizadas :arrow_down_small:
 
 - [Node.js](https://nodejs.org/en/)
-- [Expresss](https://expressjs.com/pt-br/)
+- [Express](https://expressjs.com/pt-br/)
 - [Knex](http://knexjs.org/)
 -[SQLITE](https://www.sqlite.org/index.html)
 -[Celebrate](https://github.com/arb/celebrate)
