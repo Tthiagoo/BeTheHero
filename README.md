@@ -18,9 +18,9 @@ npm install
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [Knex](http://knexjs.org/)
--[SQLITE](https://www.sqlite.org/index.html)
--[Celebrate](https://github.com/arb/celebrate)
--[Jest](https://jestjs.io/)
+- [SQLITE](https://www.sqlite.org/index.html)
+- [Celebrate](https://github.com/arb/celebrate)
+- [Jest](https://jestjs.io/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 
