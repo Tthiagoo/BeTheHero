@@ -6,7 +6,7 @@
 
 ![kisspng-macbook-pro-imac-apple-computer-desktop-pc-5ad748369bf074 5005483115240581666387 (2)](https://user-images.githubusercontent.com/51219408/88570185-08920f00-d012-11ea-89d4-a916761c8345.png) ![iphone q (3)](https://user-images.githubusercontent.com/51219408/88573037-80facf00-d016-11ea-813c-764607813ebd.png)
 
-## Instalação das dependências :computer:
+## Instalação das dependências :wrench:
 <p>Execute esse comando em seu terminal na pasta do projeto</p>
 
 ```sh
@@ -23,6 +23,10 @@ npm install
 - [Jest](https://jestjs.io/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
+
+## Demo :computer:
+[Entre nesse link para ver uma demonstração do projeto](https://theherobe.netlify.app/)
+
 
 ## Como contribuir :question:
 
