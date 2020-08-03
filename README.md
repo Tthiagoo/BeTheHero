@@ -1,6 +1,5 @@
 # BeTheHero
-![npm (custom registry)](https://img.shields.io/npm/v/npm/latest?style=plastic) [![Netlify Status](https://api.netlify.com/api/v1/badges/6fc8825f-9a7e-4d7e-a0bf-78be6fb58735/deploy-status)](https://app.netlify.com/sites/theherobe/deploys)
-
+![npm (custom registry)](https://img.shields.io/npm/v/npm/latest?style=plastic)[![Netlify Status](https://api.netlify.com/api/v1/badges/d8a88dc1-a71b-4a2b-897b-3ce0cec80361/deploy-status)](https://app.netlify.com/sites/herobe/deploys)
 >Este projeto tem como objetivo conectar pessoas que desejam fazer contribuições monetarias para ONG´S
 
 
