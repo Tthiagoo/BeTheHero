@@ -1,12 +1,12 @@
 # BeTheHero
-
+![npm (custom registry)](https://img.shields.io/npm/v/npm/latest?style=plastic)[![Netlify Status](https://api.netlify.com/api/v1/badges/d8a88dc1-a71b-4a2b-897b-3ce0cec80361/deploy-status)](https://app.netlify.com/sites/herobe/deploys)
 >Este projeto tem como objetivo conectar pessoas que desejam fazer contribuições monetarias para ONG´S
 
 
 
 ![kisspng-macbook-pro-imac-apple-computer-desktop-pc-5ad748369bf074 5005483115240581666387 (2)](https://user-images.githubusercontent.com/51219408/88570185-08920f00-d012-11ea-89d4-a916761c8345.png) ![iphone q (3)](https://user-images.githubusercontent.com/51219408/88573037-80facf00-d016-11ea-813c-764607813ebd.png)
 
-## Instalação das dependências :computer:
+## Instalação das dependências :wrench:
 <p>Execute esse comando em seu terminal na pasta do projeto</p>
 
 ```sh
@@ -23,6 +23,10 @@ npm install
 - [Jest](https://jestjs.io/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
+
+## Demo :computer:
+[Entre nesse link para ver uma demonstração do projeto](https://herobe.netlify.app)
+
 
 ## Como contribuir :question:
 
