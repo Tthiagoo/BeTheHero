@@ -25,7 +25,8 @@ npm install
 - [React Native](https://facebook.github.io/react-native/)
 
 ## Demo :computer:
-[Entre nesse link para ver uma demonstração do projeto](https://herobe.netlify.app)
+- [Entre nesse link para ver uma demonstração do projeto desktop](https://herobe.netlify.app)
+- [Clique nesse link para baixar o APK](https://expo.io/artifacts/1e84e706-8565-458c-9066-230320c9189b)
 
 
 ## Como contribuir :question:
