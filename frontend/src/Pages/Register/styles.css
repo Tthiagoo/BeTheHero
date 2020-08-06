@@ -41,7 +41,9 @@
   width: 100%;
   max-width: 450px;
 } 
-
+.error{
+  color: red;
+}
 .register-container .content form input {
   margin-top: 8px;
 }

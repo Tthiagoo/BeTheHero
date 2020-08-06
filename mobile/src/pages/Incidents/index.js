@@ -1,17 +1,4 @@
-/*os estilos são usados atraves do ".", meio q definindo a classe deles
 
-*as views são como a div;
-
-*o componente TouchableOpacity torna qualquer coisa clicavel com uma função dentro
-
-* o FlatList é o componente q adiciona a barra de rolagem, onde ele tem o data q é uma array dizendo quantos elementos vão ser
-renderizados e keyExtratcor q se refere o elemento unico em cada item
-
-*o UseNavigation serve de navegação pra tela
-
-*o UseEffect carrega os componentes para serem exibidos em tela quando eles sofrerem alteração
-
-*/
 
 import React, { useState, useEffect } from 'react';
 import { Feather } from '@expo/vector-icons';
@@ -84,7 +71,9 @@ export default function Incidents() {
 				onEndReached={loadIncidents}
 				onEndReachedThreshold={0.2}
 				renderItem={({ item: incident }) => (//a variavel item armazena os dados dos incidents
+					
 					<View style={styles.incident}>
+						<Text>Teste</Text>
 						<Text style={styles.incidentProperty}>ONG:</Text>
 						<Text style={styles.incidentValue}>{incident.name}</Text>
 
