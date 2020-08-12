@@ -1,5 +1,5 @@
 # BeTheHero
-![npm (custom registry)](https://img.shields.io/npm/v/npm/latest?style=plastic)  [![Netlify Status](https://api.netlify.com/api/v1/badges/d8a88dc1-a71b-4a2b-897b-3ce0cec80361/deploy-status)](https://app.netlify.com/sites/herobe/deploys)  ![APM](https://img.shields.io/apm/l/npm?label=license)
+![npm (custom registry)](https://img.shields.io/npm/v/npm/latest?style=plastic)  [![Netlify Status](https://api.netlify.com/api/v1/badges/d8a88dc1-a71b-4a2b-897b-3ce0cec80361/deploy-status)](https://app.netlify.com/sites/herobe/deploys)  ![APM](https://img.shields.io/apm/l/npm?label=license) <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
 >Este projeto tem como objetivo conectar pessoas que desejam fazer contribuições monetarias para ONG´S
 
 
@@ -41,4 +41,6 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ## License :page_with_curl:
 [MIT](https://choosealicense.com/licenses/mit/)
+
+### Criado na edição Omnistack 10 by Rocketseat 🚀
 
