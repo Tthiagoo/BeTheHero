@@ -42,5 +42,5 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 ## License :page_with_curl:
 [MIT](https://choosealicense.com/licenses/mit/)
 
-### Criado na edição Omnistack 10 by Rocketseat 🚀
+### Criado na edição Omnistack 11 by Rocketseat 🚀
 
