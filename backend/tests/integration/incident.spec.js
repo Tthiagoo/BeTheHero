@@ -2,7 +2,7 @@ const request = require('supertest');
 const app = require('../../src/app');
 const connection = require('../../src/database/connection')
 
-describe('ONG', () => {
+describe('Incident', () => {
   beforeEach(async () => {
     await connection.migrate.rollback()
     await connection.migrate.latest()
@@ -10,17 +10,16 @@ describe('ONG', () => {
   afterAll(async () => {
     await connection.destroy()
   })
-  it('Deve criar uma ONG', async () => {
+  it('Deve criar um Incident', async () => {
     const response = await request(app)
-      .post('/ongs')
+      .post('/incidents')
       .send({
-        name: "ong finaaaal teste ",
-        email: "contt@hotm.com",
-        whatsapp: "11958488382",
-        city: "334454",
-        uf: "sp"
+        title: "Teste de Incident",
+        description: "Testando com jest",
+        value: 1235,
+
       })
-      expect(response.body).toHaveProperty('id')
+    expect(response.body).toHaveProperty('id')
 
   })
 })
